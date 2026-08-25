@@ -40,6 +40,6 @@ Minha trajetória também envolve **análise de dados, automação e performance
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katrini-santos-292597265/)
 
 📍 Criciúma, SC — Brasil
